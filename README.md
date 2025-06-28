@@ -29,7 +29,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   </a> 
 </div>
 
----
 
 ## 🚀 (Steps to Deploy)
 
@@ -43,7 +42,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
   </a>
 </div>
 
----
+
 
 ### (Step 2: Get Pair Code)
 
@@ -64,7 +63,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ### (After getting creds.json file, upload it to session folder)
 
----
+
 
 ### Step 3: (Deploy Now)
 
@@ -97,7 +96,7 @@ For further customization and setup guidance, click the button below:
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
----
+
 
 
 ### (Update The System)
